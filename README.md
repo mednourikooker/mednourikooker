@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mednourikooker
 - 👀 I’m interested in game developement , game engine , level design ...
-- 🌱 I’m currently learning games engineering
+- 🌱 I’m currently studying games engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamed.dhia.nouri@menu.app
 
